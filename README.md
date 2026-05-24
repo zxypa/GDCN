@@ -4,7 +4,7 @@
 
 ## Install
 ```bash
-git clone https://github.com/<your-account>/GDCN.git
+git clone https://github.com/zxypa/GDCN.git
 cd GDCN
 ```
 
