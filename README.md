@@ -1,4 +1,4 @@
-# GDCN: Geometry-Detail Collaborative Network for Remote Sensing Image Super-Resolution
+# GDCN: Geometry-Guided Global–Local Collaboration for Remote Sensing Image Super-Resolution
 
 
 
